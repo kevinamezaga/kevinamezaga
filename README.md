@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Kevin Amézaga!
 - 👀 I’m interested in technology and public policy.
 - 🌱 I’m currently learning Craft CMS and PHP.
-- 📫 You can reach me at any of my contact options on [https://mostlikelykevin.com]mostlikelykevin.com
+- 📫 You can reach me at any of my contact options on [mostlikelykevin.com](https://mostlikelykevin.com)
