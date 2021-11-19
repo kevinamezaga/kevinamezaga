@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Kevin Amézaga!
 - 👀 I’m interested in technology and public policy.
-- 🌱 I’m currently learning Craft CMS and PHP.
+- 🌱 I’m currently learning React.
+- 🤠 My favorite languages are HTML, CSS, PHP, and Twig.
 - 📫 You can reach me at any of my contact options on [mostlikelykevin.com](https://mostlikelykevin.com)
